@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "681178016769",
+    "firebase_url": "https://chatappen-f6ce2.firebaseio.com",
+    "project_id": "chatappen-f6ce2",
+    "storage_bucket": "chatappen-f6ce2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681178016769:android:f2c22a7a20116c4b",
+        "android_client_info": {
+          "package_name": "io.cbll.githubchecker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681178016769-s6ko0noqssojaak290a5poiadcuv8h9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD5v_1EQ_SrNGZW598qE_HrfEvNjTghoE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681178016769:android:b396552cc16d9761",
+        "android_client_info": {
+          "package_name": "com.yourcompany.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681178016769-s6ko0noqssojaak290a5poiadcuv8h9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD5v_1EQ_SrNGZW598qE_HrfEvNjTghoE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
